@@ -20,7 +20,7 @@ Les abonnements [Nitro](https://support.discord.com/hc/fr/articles/115000435108-
 Nitro Classic était pendant très longtemps le seul abonnement. Désormais, il est l'abonnement "basique" de Discord Nitro.
 
 L'abonnement octroie des avantages supplémentaires, comme : 
-* Utilisation des GIF en avatar
+* Utilisation des GIF en avatar et en banière de profil
 * Choisir son discriminant Discord
 * Qualité de partage d'écran améliorée
 * Partage de fichiers de 8Mo à 50Mo
@@ -32,10 +32,11 @@ Nitro est l'abonnement le plus utilisé, avec le plus de bénéfices.
 
 Encore une fois, il y a des avantages supplémentaires, comme :
 * Tous les avantages de Nitro Classic
-* Partage de fichiers de 8Mo à ~~50Mo~~ 100Mo
+* Partage de fichiers de 8Mo à ~~50Mo~~ ~~100Mo~~ 500Mo
 * Partage d'écran à la source
 * Deux boosts de serveur inclus (voir [ici](https://discord.fr/wiki/nitro-jeux/boost-serveur/boost))
-* Une bannière de profil 
+* Une bannière de profil animée ou non
+* Dégradé de couleurs dans l'affichage du profil
 * La taille des messages est doublée, elle passe de 2000 à 4000 caractères
 * La limite du nombre de serveurs pouvant être rejoint double pour atteindre 200
 * 300 stickers exclusifs à Nitro et la possibilité d'utiliser les stickers personnalisés sur n'importe où.
@@ -46,6 +47,6 @@ Si un utilisateur est présent sur plus de 100 serveurs à la fin de son abonnem
 :::
 
 ## Comment s'abonner ?
-Rien de plus simple, il faut se rendre dans les paramètres / catégorie des messages privés et dans Nitro. Une suite d'intructions s'affichera et donnera la procédure à effectuer !
+Rien de plus simple, il suffit de se rendre dans les paramètres / catégorie des messages privés et dans Nitro. Une suite d'intructions s'affichera et donnera la procédure à effectuer !
 
 ![GIF comment acheter Nitro](https://i.discord.fr/jc3.gif)
